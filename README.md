@@ -1,4 +1,4 @@
-# 🏛️ VenueSpot — Venue Booking System (Frontend)
+#  VenueSpot — Venue Booking System (Frontend)
 
 A fully interactive React frontend for a Venue Booking System with two roles: **Customer** and **Owner**.
 
