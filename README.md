@@ -4,7 +4,7 @@ A fully interactive React frontend for a Venue Booking System with two roles: **
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - Node.js v16+ and npm installed
@@ -24,7 +24,7 @@ App will open at **http://localhost:3000**
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 venue-booking-app/
@@ -77,7 +77,7 @@ venue-booking-app/
 
 ---
 
-## 🔀 Routing
+##  Routing
 
 | Route                  | Role     | Description                        |
 |------------------------|----------|------------------------------------|
@@ -92,7 +92,7 @@ venue-booking-app/
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Technology       | Usage                              |
 |------------------|------------------------------------|
@@ -105,7 +105,7 @@ venue-booking-app/
 
 ---
 
-## 🎮 Interactive Features
+##  Interactive Features
 
 ### Customer
 - **Filter Bar** — Live-filters venue list by location, type, max price, date, and name search
@@ -122,8 +122,8 @@ venue-booking-app/
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - No backend — all data lives in React state
 - Data resets on page refresh (by design for a demo)
-- To persist across sessions, replace `useState` with `localStorage` in `AppContext.js`
+
